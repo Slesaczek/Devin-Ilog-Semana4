@@ -6,9 +6,6 @@ import org.devinhouse.superherois.model.*;
 import java.util.List;
 import java.util.Scanner;
 
-/**
- * Responsável por prover a interação com o usuário da aplicação
- */
 public class Display {
 
     public void exibirMenu() {
