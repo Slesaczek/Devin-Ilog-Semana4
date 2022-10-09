@@ -1,4 +1,4 @@
-package Ex02;
+package com.Ex02;
 
 public class Funcionario {
 

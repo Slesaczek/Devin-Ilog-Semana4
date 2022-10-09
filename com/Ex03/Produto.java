@@ -1,4 +1,4 @@
-package Ex03;
+package com.Ex03;
 
 public class Produto implements Tributavel {
 
@@ -9,5 +9,4 @@ public class Produto implements Tributavel {
     public double calcularValorComImposto() {
         return this.valor + this.valorImposto;
     }
-
 }

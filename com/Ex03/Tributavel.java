@@ -1,4 +1,4 @@
-package Ex03;
+package com.Ex03;
 
 public interface Tributavel {
 

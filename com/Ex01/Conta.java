@@ -1,4 +1,4 @@
-package Ex01;
+package com.Ex01;
 
 public abstract class Conta {
 
